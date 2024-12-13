@@ -1,27 +1,54 @@
-<h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Profiles README DIO</span>
-</h1>
+<div style="display:flex; width: 100%; justify-content: flex-start">
+  <a href="https://git.io/typing-svg">
+ <p>👋</p>
+    <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=ffffff&lines=Olá,%20+me+chamo+Jonathan+Avila+Afonso;Seja+muito+bem+vindo!+:)" alt="Typing SVG" style="font-size: 150px" >
+  </a>
+</div>
 
-## Sobre o Projeto
-Página desenvolvida para fins didáticos para o curso **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/). Lembre-se de que Markdown é mais voltado para a documentação e apresentação de texto formatado, enquanto a remoção de bugs normalmente envolve a compreensão detalhada do código e o uso de ferramentas de desenvolvimento adequadas à linguagem de programação específica.
 
-[![Preview](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://digitalinnovationone.github.io/dio-lab-open-source/)
+<div>
+<p style="color: #fff; font-size: 25px; font-weight: 500">Análise de dados & Front-end💻</p>
+</div>
 
-```
-docs/
-├── assets/
-│   ├── css/
-│   │   └── styles.css
-│   └── js/
-│       └── scripts.js
-├── favicon.ico
-├── index.html
-└── README.md
-```
 
-## Tecnologias
-![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+<div> 
+  <a href="https://www.instagram.com/jonathan_avilaa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:jonathan.avilaa@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jonathan-ávila-93b7051ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+<div width="100%" align="center" justify="center">  
+  <a href="https://github.com/jonathanavilaafonso">
+      
+  <img width="40%" height="150px" src="https://github-readme-stats.vercel.app/api?username=jonathanavilaafonso&theme=github_dark" /> 
+  <img width="40%" height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jonathanavilaafonso&layout=compact&bg_color=0D1117&border_color=fffC&title_color=4886CC&text_color=FFF" />
+  </a>
+</div>
+
+<div align="center">
+<img width="80%" height="200px" src="https://streak-stats.demolab.com/?user=01samuelgomx&theme=react&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats">
+</div>
+
+<div>
+<p style="color: #fff; font-size: 30px; font-weight: 500">Tecnologias 🚀</p>
+</div>
+
+![HTML](https://img.shields.io/badge/html5-192436?style=for-the-badge&logo=html5&logoColor=orange)
+![CSS](https://img.shields.io/badge/css3-192436?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/react-192436?style=for-the-badge&logo=react)
+![SASS](https://img.shields.io/badge/sass-192436?style=for-the-badge&logo=sass)
+![PHP](https://img.shields.io/badge/php-192436?style=for-the-badge&logo=php)
+![LARAVEL](https://img.shields.io/badge/Laravel-192436?style=for-the-badge&logo=laravel)
+![ReactNative](https://img.shields.io/badge/reactNative-192436?style=for-the-badge&logo=react)
+![TYPESCRIPT](https://img.shields.io/badge/Typescript-192436?style=for-the-badge&logo=typescript)
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-192436?style=for-the-badge&logo=javascript)
+
+<div>
+<p style="color: #fff; font-size: 30px; font-weight: 500">Ferramenta🔧</p>
+</div>
+
+![VSCODE](https://img.shields.io/badge/vscode-192436?style=for-the-badge&logo=visualstudiocode)
+![GIT](https://img.shields.io/badge/Git-192436?style=for-the-badge&logo=git)
+![GITHUB](https://img.shields.io/badge/Github-192436?style=for-the-badge&logo=github)
+![POSTMAN](https://img.shields.io/badge/Postman-192436?style=for-the-badge&logo=postman)
+![MYSQL](https://img.shields.io/badge/Mysql-192436?style=for-the-badge&logo=mysql&logoColor=6E99F5)
